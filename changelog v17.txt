@@ -1,0 +1,27 @@
+v16
+Added:
+Class Library
+Test Framework
+Database
+(tblScreen, tblGenre and tblAgeRating populated, one entry in tblFilm)
+Began work from programming pathways on tblFilm before trying on other classes
+Incorporating classes not in class diagram
+
+v17
+Added:
+Classes and test classes for every class on diagram.
+
+Errors:
+
+Build error when running tests: CS0245 - The type or namespace could not be found (Are you missing or using directive or an assembly reference) - Recommend Google-Fu
+
+TODO:
+
+Implement TDD approach to display data on webpages (No .aspx changes made so far).
+
+tstCustomer class - Need some way to check the format of email addresses.
+
+Stored procedures:
+Updating Customer Details (Needs to compare inputted password with stored password to allow changes to happen - see if can be implemented in same procedure, or in a different procedure before the update function, returning false if no password match).
+
+Displaying/Filtering Screenings (Needs to display where Cancelled = 0/false).
