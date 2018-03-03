@@ -223,7 +223,7 @@ namespace Test_Framework
             Int32 CustomerID = 1;
             //Invoke the method
             Found = ACustomer.Find(CustomerID);
-            //Check the Last Name
+            //Check the E-mail
             if (ACustomer.EmailAddress != "DaveyDave@Gmail.com")
             {
                 OK = false;
