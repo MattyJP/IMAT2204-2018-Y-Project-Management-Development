@@ -246,7 +246,7 @@ namespace Test_Framework
             Int32 CustomerID = 1;
             //Invoke the method
             Found = ACustomer.Find(CustomerID);
-            //Check the Screening ID
+            //Check the MobilePhoneNo
             if (ACustomer.MobilePhoneNo != 07775828423)
             {
                 OK = false;
