@@ -3,25 +3,25 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Booking System Prototype", ".", "{62D48070-9379-49B5-BDB0-DFA916102487}"
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Project", ".", "{62D48070-9379-49B5-BDB0-DFA916102487}"
 	ProjectSection(WebsiteProperties) = preProject
 		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
 		Debug.AspNetCompiler.VirtualPath = "/localhost_10717"
-		Debug.AspNetCompiler.PhysicalPath = "..\Proto16.85\"
+		Debug.AspNetCompiler.PhysicalPath = "..\Project\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_10717\"
 		Debug.AspNetCompiler.Updateable = "true"
 		Debug.AspNetCompiler.ForceOverwrite = "true"
 		Debug.AspNetCompiler.FixedNames = "false"
 		Debug.AspNetCompiler.Debug = "True"
 		Release.AspNetCompiler.VirtualPath = "/localhost_10717"
-		Release.AspNetCompiler.PhysicalPath = "..\Proto16.85\"
+		Release.AspNetCompiler.PhysicalPath = "..\Project\"
 		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_10717\"
 		Release.AspNetCompiler.Updateable = "true"
 		Release.AspNetCompiler.ForceOverwrite = "true"
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "10717"
-		SlnRelativePath = "..\Proto16.85\"
+		SlnRelativePath = "..\Project\"
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class Library", "Class Library\Class Library.csproj", "{18B8A68A-BD87-4339-BE63-FFA9F0408DF2}"
