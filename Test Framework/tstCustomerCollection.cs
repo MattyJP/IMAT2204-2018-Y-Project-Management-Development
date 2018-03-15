@@ -11,6 +11,7 @@ namespace Test_Framework
         [TestMethod]
         public void InstanceOK()
         {
+            //test to test
             //Create an instance of the class we want to create
             clsCustomerCollection AllCustomers = new clsCustomerCollection();
             //Test to see that it exists
